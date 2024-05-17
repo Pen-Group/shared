@@ -81,32 +81,6 @@ button:active {
   text-align: center;
 }
 
-.penPlus-logo {
-  width:32px;
-  height:32px;
-  margin-left: 8px; 
-  margin-top: 8px;
-  transition: all 300ms ease-in;
-  transform: scale(1,1) rotate(-22.5deg);
-}
-
-.penPlus-themes {
-  width:32px;
-  height:32px;
-  margin-left: 8px; 
-  margin-top: 8px;
-  transition: all 300ms ease-in;
-  transform: scale(1,1) rotate(0deg);
-}
-
-.penPlus-logo:hover {
-  transform: scale(1.1,1.1) rotate(0deg);
-}
-
-.penPlus-themes:hover {
-  transform: scale(1.1,1.1) rotate(360deg);
-}
-
 /*Things used for general page styling*/
 .left-align {
   text-align: center;
