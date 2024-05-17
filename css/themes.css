@@ -1,0 +1,29 @@
+.theme-dark {
+  --background-1: #0f0d1c;
+  --background-2: #151229;
+  --background-3: #1f1c3b;
+
+  --text-main: #c6c6ef;
+  --text-sub-headers: #aeaeee;
+  --text-large-header: #0fbd8c;
+
+  --link-main: #74acff;
+  --link-hover: #b374ff;
+  --link-visited: #ec74ff;
+  --link-active: #ff74ba;
+}
+
+.theme-light {
+  --background-1: #dfdbff;
+  --background-2: #c8c0ff;
+  --background-3: #a195ff;
+
+  --text-main: #20202a;
+  --text-sub-headers: #5e5ee4;
+  --text-large-header: #0fbd8c;
+
+  --link-main: #255eb5;
+  --link-hover: #8827ff;
+  --link-visited: #e645ff;
+  --link-active: #ff3299;
+}
