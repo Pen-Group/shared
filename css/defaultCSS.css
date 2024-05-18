@@ -66,6 +66,23 @@ button:active {
   cursor: pointer;
 }
 
+.penPlus-themes {
+  width:32px;
+  height:32px;
+  margin-left: 8px; 
+  margin-top: 8px;
+  transition: all 300ms ease-in;
+  transform: scale(1,1) rotate(0deg);
+}
+
+.penPlus-logo:hover {
+  transform: scale(1.1,1.1) rotate(0deg);
+}
+
+.penPlus-themes:hover {
+  transform: scale(1.1,1.1) rotate(360deg);
+}
+
 .penPlus-topBar {
   width: 100vw;
   height: 48px;
