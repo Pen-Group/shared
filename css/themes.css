@@ -2,6 +2,10 @@
   --background-1: #0f0d1c;
   --background-2: #151229;
   --background-3: #1f1c3b;
+  
+  --background-1-trans: #0f0d1c99;
+  --background-2-trans: #15122999;
+  --background-3-trans: #1f1c3b99;
 
   --text-main: #c6c6ef;
   --text-sub-headers: #aeaeee;
@@ -17,6 +21,10 @@
   --background-1: #dfdbff;
   --background-2: #c8c0ff;
   --background-3: #a195ff;
+  
+  --background-1-trans: #dfdbff99;
+  --background-2-trans: #c8c0ff99;
+  --background-3-trans: #a195ff99;
 
   --text-main: #20202a;
   --text-sub-headers: #5e5ee4;
